@@ -14,4 +14,5 @@ package com.felink.sql.sqlitecore;
 public class Test {
 
     private int m = 1;
+    private int m1= 2;
 }
